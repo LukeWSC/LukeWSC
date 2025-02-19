@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About me
-test
 
-# Past projects
-silly
+
+# My past projects
+I have made several digital projects before.
 
 # Why I want to study digital technology
-
+I love learning systems and workings and using these to make outcomes.
 
 # Aspirations
+I really want to get into the creation process for some kind of creative projects in my future but I am not sure what kind yet.
