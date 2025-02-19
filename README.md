@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About me
+test
+
+# Past projects
+silly
+
+# Why I want to study digital technology
+
+
+# Aspirations
